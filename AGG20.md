@@ -165,20 +165,8 @@
 <p>Gary Oppenheimer</p>
 <p>•a minute ago</p>
 <p><a href="http://AmpleHarvest.org">AmpleHarvest.org</a> does the EXACT same thing… except with locally grown food… educating and enabling America’s 42 million gardeners donate surplus food to 8,600 local food pantries in all 50 states.</p>
-<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/808/medium/filename.jpg?1584461461" alt="user avatar"></p>
-<p>Anjana Patel</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/457/medium/open-uri20200310-4-1vxt4na?1583845304" alt="user avatar"></p>
+<p>Noah Hart</p>
 <p>•a minute ago</p>
-<p>As someone dealing with many new chronic conditions, the costs of my meds is shocking every time! Keep up the good work Sirum!</p>
-<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/014/579/medium/open-uri20200306-4-ubs4j9?1583532532" alt="user avatar"></p>
-<p>Maddy Chung</p>
-<p>•Organizer•a few seconds ago</p>
-<p>Kiah: Americans spend about as much on prescription meds as on groceries.</p>
-<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/530/medium/data?1584458054" alt="user avatar"></p>
-<p>Roslyn Payne</p>
-<p>•a few seconds ago</p>
-<p>Doctors indicate that many people are not “patient compliant” - how do you track if the individuals actually take the medicines?</p>
-<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/232/medium/data?1583804572" alt="user avatar"></p>
-<p>Alicia Dunn</p>
-<p>•a few seconds ago</p>
-<p>Or falling deeper into illness. So many people forgo meds because of $$$</p>
+<p>Hello all 👋 - I’m the founder &amp; CEO of Tech Jobs for Good - a hiring platform for organizations focused on addressing social &amp; environmental issues. If you’re looking for social impact tech job (for example, engineering, data analysis, design, product management, and more) take a look at more than 300 open jobs across the US. If you or your organization is hiring technical roles - I’d love to connect and share how we can help you find great people to join your team. Feel free to send me a message here or via email at <a href="mailto:noah@techjobsforgood.com">noah@techjobsforgood.com</a></p>
 
