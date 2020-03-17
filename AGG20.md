@@ -96,4 +96,89 @@
 <h4 id="karen-borchgrevink">Karen Borchgrevink</h4>
 <p>•a few seconds ago</p>
 <p>👋🏼 to LA friends! YuChih Liou, Jessica Santana, Natalie from Nexleaf Analytics, and who else?</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/017/292/medium/open-uri20200311-4-h50xfh?1583944706" alt="user avatar"></p>
+<p>Iskren Kulev</p>
+<p>•a minute ago</p>
+<p>Joining now from <a href="http://www.kindlink.com">www.kindlink.com</a> (tech for CSR and nonprofits) Looove Masters of Scale!</p>
+<p>Michelle Brown</p>
+<p>•a few seconds ago</p>
+<p>Hi everyone! Michelle from CommonLit. We are a nonprofit with a free online reading program and 15M registered teachers and students. We’re getting flooded with requests to support teleschool and look for emergency covid-19 funding-- I’m at <a href="mailto:michelle@commonlit.org">michelle@commonlit.org</a> if you have any ideas! Thanks!</p>
+<p>David Fridley</p>
+<p>•3 minutes ago</p>
+<p>#undebate <a href="http://github.com/EnCiv/undebate">github.com/EnCiv/undebate</a> welcomes volunteers in node, react, mar/com, testing, and whatever else you see we are missing</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/016/390/medium/open-uri20200311-4-paexfn?1583926533" alt="user avatar"></p>
+<p>Mariam Nusrat</p>
+<p>•2 minutes ago</p>
+<p>Is anyone else in their PJs and therefore not motivated to set-up their webcam…J/K… my internet connection is spotty so video isn’t super feasible :(</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/017/918/medium/open-uri20200312-4-s302u7?1583989464" alt="user avatar"></p>
+<p>Sasha Cole</p>
+<p>•a minute ago</p>
+<p>Good work Julia</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/110/medium/filename.jpg?1584409245" alt="user avatar"></p>
+<p>Summer Kennedy</p>
+<p>•Organizer•a minute ago</p>
+<p>Get excited, Lisa Wang is about to take the stage!</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/016/674/medium/open-uri20200311-4-5ixqtf?1583933990" alt="user avatar"></p>
+<p>Laura Kleiman</p>
+<p>•a few seconds ago</p>
+<p>Hi, everyone! My nonprofit, Cures Within Reach for Cancer (<a href="http://www.cwr4c.org">www.cwr4c.org</a>), enables cancer patients to access new and affordable treatments faster by leveraging repurposed generic drugs, artificial intelligence, and innovative funding models. Would love to connect: <a href="https://www.linkedin.com/in/laurakleiman/">https://www.linkedin.com/in/laurakleiman/</a>.</p>
+<p>Doyeon Kim</p>
+<p>•2 minutes ago</p>
+<p>Hi everyone, my nonprofit, Simple Steps (<a href="https://simplestepscc.org/">https://simplestepscc.org</a>), empowers immigrant women to return to the workforce after a hiatus. We are building a community for talented immigrant women and local employers who want to hire female talent from diverse backgrounds. I look forward to connecting with all of you.</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/979/medium/data?1584461474" alt="user avatar"></p>
+<p>Carson Kelly</p>
+<p>•a minute ago</p>
+<p>I am the founder of an Enterprise Employee Wellness Platform based on Compassionate actions. We live right in the middle of Impact and we are a social venture/for profit benefit corp. I would love to connect with anyone to help build our ecosystem of Kindness and Compassion.</p>
+<p>Maddy Chung</p>
+<p>•Organizer•a minute ago</p>
+<p>Want to learn more about Lisa’s story? Lucky for you, our co-founder Shannon Farley interviewed her in Forbes. Check it out: <a href="https://www.forbes.com/sites/fastforward/2019/07/31/this-former-googler-is-reinventing-sat-prep-with-the-help-of-marvel-espn-and-aoc/#744e87a43bb0">https://www.forbes.com/sites/fastforward/2019/07/31/this-former-googler-is-reinventing-sat-prep-with-the-help-of-marvel-espn-and-aoc/#744e87a43bb0</a></p>
+<p>Maria Dyshel (Tangible AI)</p>
+<p>Hi friends, if anyone’s thinking to use AI or chatbots in their nonprofit / socialbiz, ping me! <a href="https://www.linkedin.com/in/maria-dyshel/">https://www.linkedin.com/in/maria-dyshel/</a></p>
+<p>Camilla Sterne</p>
+<p>•2 minutes ago</p>
+<p>Learn more about the Emerson Collective: <a href="http://emersoncollective.com/">http://emersoncollective.com/</a></p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/021/708/medium/filename.jpg?1584467041" alt="user avatar"></p>
+<p>Hernan Romero</p>
+<p>•2 minutes ago</p>
+<p>Thank you Fast Forward for overcoming the societal difficulties by allowing the conference to run online. I’m passionate about tech for good in the area of privacy and security and looking to connect with people (technical or not). <a href="https://www.linkedin.com/in/hernromero/">https://www.linkedin.com/in/hernromero/</a></p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/014/579/medium/open-uri20200306-4-ubs4j9?1583532532" alt="user avatar"></p>
+<p>Maddy Chung</p>
+<p>•Organizer•a minute ago</p>
+<p>Learn more about Emerson Collective at <a href="https://www.emersoncollective.com/">https://www.emersoncollective.com/</a></p>
+<p><img src="https://avatars.dicebear.com/v2/initials/Ankit%20Kumar.svg" alt="user avatar"></p>
+<p>Ankit Kumar</p>
+<p>•a minute ago</p>
+<p>Thanks Maddy for all the quick updates !</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/808/medium/filename.jpg?1584461461" alt="user avatar"></p>
+<p>Anjana Patel</p>
+<p>•a minute ago</p>
+<p>yay Sirum!!</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/110/medium/filename.jpg?1584409245" alt="user avatar"></p>
+<p>Summer Kennedy</p>
+<p>•Organizer•a few seconds ago</p>
+<p>Did you know: 50 million Americans don’t take their prescribed medication because they can’t afford it. SIRUM is on a mission to change that 💓⚕️</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/686/medium/open-uri20200317-4-1as9own?1584459168" alt="user avatar"></p>
+<p>Nick Breen</p>
+<p>•a few seconds ago</p>
+<p>Lisa Wang: Great work for helping students and making SAT Prep fun. I’d love to connect, I work with Khan Academy and I’ve been working on our test-prep team for the past 3 years. <a href="https://www.linkedin.com/in/nick-breen-51a35a25/">https://www.linkedin.com/in/nick-breen-51a35a25/</a></p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/018/522/medium/open-uri20200312-4-1e3mcdz?1584045137" alt="user avatar"></p>
+<p>Gary Oppenheimer</p>
+<p>•a minute ago</p>
+<p><a href="http://AmpleHarvest.org">AmpleHarvest.org</a> does the EXACT same thing… except with locally grown food… educating and enabling America’s 42 million gardeners donate surplus food to 8,600 local food pantries in all 50 states.</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/808/medium/filename.jpg?1584461461" alt="user avatar"></p>
+<p>Anjana Patel</p>
+<p>•a minute ago</p>
+<p>As someone dealing with many new chronic conditions, the costs of my meds is shocking every time! Keep up the good work Sirum!</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/014/579/medium/open-uri20200306-4-ubs4j9?1583532532" alt="user avatar"></p>
+<p>Maddy Chung</p>
+<p>•Organizer•a few seconds ago</p>
+<p>Kiah: Americans spend about as much on prescription meds as on groceries.</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/530/medium/data?1584458054" alt="user avatar"></p>
+<p>Roslyn Payne</p>
+<p>•a few seconds ago</p>
+<p>Doctors indicate that many people are not “patient compliant” - how do you track if the individuals actually take the medicines?</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/232/medium/data?1583804572" alt="user avatar"></p>
+<p>Alicia Dunn</p>
+<p>•a few seconds ago</p>
+<p>Or falling deeper into illness. So many people forgo meds because of $$$</p>
 
