@@ -144,4 +144,42 @@
 <p>Summer Kennedy</p>
 <p>•Organizer•a few seconds ago</p>
 <p>Making the SAT fun?? Count me in! Who else?</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/808/medium/filename.jpg?1584461461" alt="user avatar"></p>
+<p>Anjana Patel</p>
+<p>•a minute ago</p>
+<p>As someone dealing with many new chronic conditions, the costs of my meds is shocking every time! Keep up the good work Sirum!</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/014/579/medium/open-uri20200306-4-ubs4j9?1583532532" alt="user avatar"></p>
+<p>Maddy Chung</p>
+<p>•Organizer•a few seconds ago</p>
+<p>Kiah: Americans spend about as much on prescription meds as on groceries.</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/023/530/medium/data?1584458054" alt="user avatar"></p>
+<p>Roslyn Payne</p>
+<p>•a few seconds ago</p>
+<p>Doctors indicate that many people are not “patient compliant” - how do you track if the individuals actually take the medicines?</p>
+<p><img src="https://s3.amazonaws.com/quiin/users/pictures/000/015/232/medium/data?1583804572" alt="user avatar"></p>
+<p>Alicia Dunn</p>
+<p>•a few seconds ago</p>
+<p>Or falling deeper into illness. So many people forgo meds because of $$$</p>
+<p>Harrison Li</p>
+<p>•a minute ago</p>
+<p><a href="https://80000hours.org/job-board/">https://80000hours.org/job-board/</a> - I’ve found is also a good resource</p>
+<p>Tammy Lin</p>
+<p>•a minute ago</p>
+<p>I never thought the medical system could be any better given all the legacy ways of working until I lived in Japan. In the US I had to pay about $1000+ for my check up across 4 appointments while in Japan, I paid $85 (medication included), all in one visit! Love seeing this vertical integration work!</p>
+<p>Carolina Martín</p>
+<p>•a few seconds ago</p>
+<blockquote>
+<p>Exactly! We need to meet humanity where they need support!</p>
+</blockquote>
+<p>Natalie Dunn</p>
+<p>•a few seconds ago</p>
+<p>Fast Forward also has a great impact job board! <a href="https://www.ffwd.org/tech-nonprofit-jobs/opportunities/?_sft_position_type=full-time-job,part-time-job,internship,contract">https://www.ffwd.org/tech-nonprofit-jobs/opportunities/?_sft_position_type=full-time-job,part-time-job,internship,contract</a></p>
+<p>Maddy Chung</p>
+<p>•Organizer•a few seconds ago</p>
+<blockquote>
+<p>Kiah: “We decided to launch a platform where folks could get medicine as easily as you or I can get a 2-hour Amazon prime delivery. We should have those same levels of service options connecting people to essential medicine. That’s what we’re building out for low-income people.”</p>
+</blockquote>
+<p>Natalie Long</p>
+<p>•a few seconds ago</p>
+<p>Via my fellowship at <a href="http://MovingWorlds.org">MovingWorlds.org</a>, I’ve got a huge list of social good job boards. Email me <a href="mailto:natalie.long@gmail.com">natalie.long@gmail.com</a></p>
 
